@@ -48,7 +48,7 @@ sh eval_SREDS.sh
 ```
 sh train_STIR.sh
 ```
-
+<!---
 ## Citations
 If you find our approach useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```
@@ -56,10 +56,10 @@ If you find our approach useful in your research or applications, please conside
 	title={Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras},
 	author={Fan, Bin and Yin, Jiaoyang and Dai, Yuchao and Xu, Chao and Huang, Tiejun and Shi, Boxin},
 	journal={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
-                volume={},
+        volume={},
 	year={2024}
 }
 ```
-
+-->
 ## Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions or discussion please contact: binfan@mail.nwpu.edu.cn
