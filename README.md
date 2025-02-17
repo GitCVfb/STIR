@@ -1,4 +1,3 @@
-<!---
 # Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras
 
 This repository contains the source code for the paper: [Spatio-Temporal Interactive Learning for Efficient Image Reconstruction of Spiking Cameras (NeurIPS 2024)](https://openreview.net/pdf?id=S4ZqnMywcM). 
@@ -7,7 +6,7 @@ The spiking camera is an emerging neuromorphic vision sensor that records high-s
 <img src="picture/performance-speed.png" width="75%"/>
 <img src="picture/overview.png" width="80%"/>
 <img src="picture/results_visual.png" width="82%"/>
--->
+
 ## Installation
 You can choose cudatoolkit version to match your server. The code is tested with PyTorch 1.9.1 with CUDA 11.4.
 
@@ -48,7 +47,7 @@ sh eval_SREDS.sh
 ```
 sh train_STIR.sh
 ```
-<!---
+
 ## Citations
 If you find our approach useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```
@@ -60,6 +59,6 @@ If you find our approach useful in your research or applications, please conside
 	year={2024}
 }
 ```
--->
+
 ## Statement
 This project is for research purpose only, please contact us for the licence of commercial use. For any other questions or discussion please contact: binfan@mail.nwpu.edu.cn
